@@ -1,4 +1,4 @@
-# Twiiter Tweets analysis using Spatial Algorithms
+# Twitter Tweets analysis using Spatial Algorithms
 
 
 This project investigates how to organize and classifya large collection of real time Twitter data, working with a dataset  of  almost  3  Lakhs  tweets  collected  directly  from  Twitter.The  approach  described  here  combines  spatial  analysis  of  thelocation  of  the  tweet  with  content/sentiment  analysis  of  the  textand  hash-tags  associated  with  the  same  tweet.  We  then  lookinto  those  specific  regions  to  try  and  identify  the  most  popular Political  Party  and  its  influence  on  the  regions  and  comparedifferences  between  each  city,  to  provide  a  better  plan  for  the Political  Party  Campaign.  We expect  our  results  to  vary  basedon  where  people  are  tweeting  from  and  which  Political  Partyhas  more  impact  in  the  city.
